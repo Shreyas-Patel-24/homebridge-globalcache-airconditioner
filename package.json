@@ -1,0 +1,54 @@
+{
+  "_from": "homebridge-globalcache-airconditioner",
+  "_id": "homebridge-globalcache-airconditioner@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-jRD+e50bDlSYDR4CTHQMUaEnsXc=",
+  "_location": "/homebridge-globalcache-airconditioner",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "homebridge-globalcache-airconditioner",
+    "name": "homebridge-globalcache-airconditioner",
+    "escapedName": "homebridge-globalcache-airconditioner",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/homebridge-globalcache-airconditioner/-/homebridge-globalcache-airconditioner-1.0.1.tgz",
+  "_shasum": "8d10fe7b9d1b0e54980d1e024c740c51a127b177",
+  "_spec": "homebridge-globalcache-airconditioner",
+  "_where": "C:\\Users\\Shreyas",
+  "author": {
+    "name": "Shreyas Patel"
+  },
+  "bugs": {
+    "url": "https://github.com/Shreyas-Patel-24/homebridge-globalcache-airconditioner/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "A Homebridge plugin to control by globalcache ir device",
+  "engines": {
+    "homebridge": ">=1.3.2",
+    "node": ">=10.12.0"
+  },
+  "homepage": "https://github.com/Shreyas-Patel-24/homebridge-globalcache-airconditioner",
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge-ac",
+	"homebridge-airconditioner"
+    "homebridge-globalcache",
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "homebridge-globalcache-airconditioner",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyas-Patel-24/homebridge-globalcache-airconditioner.git"
+  },
+  "version": "1.0.0"
+}
